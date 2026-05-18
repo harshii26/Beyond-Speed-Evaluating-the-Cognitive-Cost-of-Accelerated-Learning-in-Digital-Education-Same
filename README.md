@@ -4,7 +4,7 @@ Digital education has changed the way we learn today through websites like YouTu
 
 Of thinking that watching videos faster automatically makes us more productive this research checks if learning faster really helps us understand things better or if it just makes us think we are being more productive.
 
-🚀 Project Overview
+ Project Overview
 
 The way we plan to do this project is by following these steps:
 
@@ -18,7 +18,7 @@ We want to see how people learn when they watch videos at speeds:
 
 - Really fast speed
 
-✨ Features
+ Features
 
 We will look at how playback speed affects learning
 
@@ -34,7 +34,7 @@ We will use statistics and correlation to analyze data
 
 We will show how people perform with pictures and charts
 
-🧠 Methodology
+ Methodology
 
 We will follow a plan to study how people learn when they watch videos fast in online learning environments.
 
@@ -92,7 +92,7 @@ We want to see how these things are connected:
 
 - How productive people think they are
 
-⚙️ Research Configuration
+ Research Configuration
 
 | Parameter | Value |
 
@@ -106,7 +106,7 @@ We want to see how these things are connected:
 
 | Evaluation Style | Numbers + Words |
 
-📊 Evaluation Metrics
+ Evaluation Metrics
 
 We will look at:
 
@@ -124,7 +124,7 @@ We will look at:
 
 - How productive people think they are
 
-📁 Project Structure
+ Project Structure
 
 ```text
 
