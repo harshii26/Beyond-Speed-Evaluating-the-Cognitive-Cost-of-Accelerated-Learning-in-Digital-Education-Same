@@ -123,10 +123,7 @@ To investigate the relationship between accelerated learning strategies and cogn
 
 ## Authors
 
-Divesh Thapa 
-Harshita Lakhanpal
-Kirti Sharma  
-Isha Kansal  
+Divesh Thapa, Harshita Lakhanpal, Kirti Sharma, Isha Kansal  
 
 Department of Computer Science  
 Chitkara University
