@@ -4,7 +4,7 @@ Digital education has transformed modern learning through platforms such as YouT
 
 Instead of assuming faster playback automatically improves productivity, this research investigates whether speed learning enhances actual understanding or creates an illusion of productivity.
 
-🚀 Project Overview
+- Project Overview
 
 The proposed workflow follows these stages:
 
@@ -16,7 +16,7 @@ The study evaluates learning behavior across different playback speeds:
 - 1.25×–1.5× Moderate Speed
 - 2× High-Speed Playback
 
-✨ Features
+- Features
 
 ✔ Playback speed impact analysis  
 ✔ Cognitive load evaluation framework  
@@ -26,7 +26,7 @@ The study evaluates learning behavior across different playback speeds:
 ✔ Statistical and correlation analysis  
 ✔ Performance visualization
 
-🧠 Methodology
+- Methodology
 
 The study follows a research framework designed to analyze accelerated learning behavior in digital education environments.
 
@@ -67,7 +67,7 @@ The study examines relationships between:
 - Mental Fatigue
 - Perceived Productivity
 
-⚙️ Research Configuration
+- Research Configuration
 
 | Parameter | Value |
 |------------|------------|
@@ -76,7 +76,7 @@ The study examines relationships between:
 | Playback Categories | 1×, 1.5×, 2× |
 | Evaluation Style | Quantitative + Qualitative |
 
-📊 Evaluation Metrics
+- Evaluation Metrics
 
 The research evaluates:
 
@@ -88,7 +88,7 @@ The research evaluates:
 - Attention Span
 - Productivity Perception
 
-📁 Project Structure
+- Project Structure
 
 ```text
 Digital-Education-Speed-Learning/
@@ -104,7 +104,7 @@ Digital-Education-Speed-Learning/
 ├── README.md
 ```
 
-💡 Future Improvements
+- Future Improvements
 
 Future work may include:
 
@@ -115,11 +115,11 @@ Future work may include:
 - Personalized learning strategies
 - Cross-platform learning analysis
 
-🎯 Research Objective
+- Research Objective
 
 To investigate the relationship between accelerated learning strategies and cognitive performance in digital education environments and determine the balance between learning efficiency, comprehension, and long-term retention.
 
-👨‍💻 Authors
+- Authors
 
 Divesh Thapa  
 Kirti Sharma  
