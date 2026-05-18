@@ -1,189 +1,132 @@
 # Beyond Speed: Evaluating the Cognitive Cost of Accelerated Learning in Digital Education
 
-Digital education has changed the way we learn today through websites like YouTube, Coursera and Udemy. This project looks at how learning especially with high-speed video playback affects how well we understand things how well we remember them how hard our brains work and how well we learn.
+Digital education has transformed modern learning through platforms such as YouTube, Coursera, and Udemy. This project explores how accelerated learning strategies, particularly high-speed video playback, influence comprehension, retention, cognitive load, and learning efficiency.
 
-Of thinking that watching videos faster automatically makes us more productive this research checks if learning faster really helps us understand things better or if it just makes us think we are being more productive.
+Instead of assuming faster playback automatically improves productivity, this research investigates whether speed learning enhances actual understanding or creates an illusion of productivity.
 
- Project Overview
+🚀 Project Overview
 
-The way we plan to do this project is by following these steps:
+The proposed workflow follows these stages:
 
 Video Lecture → Playback Speed Adjustment → Learning Process → Quiz Assessment → Cognitive Load Survey → Result Analysis
 
-We want to see how people learn when they watch videos at speeds:
+The study evaluates learning behavior across different playback speeds:
 
-- Normal Speed
+- 1× Normal Speed
+- 1.25×–1.5× Moderate Speed
+- 2× High-Speed Playback
 
-- A little faster than normal speed
+✨ Features
 
-- Really fast speed
+✔ Playback speed impact analysis  
+✔ Cognitive load evaluation framework  
+✔ Retention and recall assessment  
+✔ Learning behavior analysis  
+✔ Mixed-methods research approach  
+✔ Statistical and correlation analysis  
+✔ Performance visualization
 
- Features
+🧠 Methodology
 
-We will look at how playback speed affects learning
-
-We will check how hard it is for people to learn
-
-We will see how well people remember things
-
-We will analyze how people learn
-
-We will use a mix of research methods
-
-We will use statistics and correlation to analyze data
-
-We will show how people perform with pictures and charts
-
- Methodology
-
-We will follow a plan to study how people learn when they watch videos fast in online learning environments.
+The study follows a research framework designed to analyze accelerated learning behavior in digital education environments.
 
 Data Collection
 
-We will collect data from surveys that students fill out when they use online learning platforms.
+The dataset is based on structured survey responses collected from students using online learning platforms.
 
-We will ask for information like:
+Collected information includes:
 
-- What speed do you like to watch videos at
-
-- How do you use online learning platforms
-
-- How do you study
-
-- How long can you focus
-
-- How long do you remember things
-
-- How hard's it for you to learn
-
-- Do you think you are being productive
-
-- Are you feeling
+- Preferred playback speed
+- Learning platform usage
+- Study patterns
+- Attention span
+- Retention duration
+- Cognitive load level
+- Productivity perception
+- Mental fatigue indicators
 
 Data Analysis
 
-We will clean up the data and use statistics to understand it.
+The collected data undergoes preprocessing and statistical evaluation.
 
-We will use methods like:
+Analysis methods include:
 
-- Looking at the
+- Mean Analysis
+- Percentage Analysis
+- Standard Deviation
+- Correlation Analysis
+- Comparative Analysis
+- Thematic Analysis
 
-- Looking at the percentage
-
-- Looking at how spread out the data is
-
-- Looking at how things are related
-
-- Comparing things
-
-- Finding themes
-
-We want to see how these things are connected:
+The study examines relationships between:
 
 - Playback Speed
+- Learning Comprehension
+- Retention Ability
+- Cognitive Load
+- Mental Fatigue
+- Perceived Productivity
 
-- How well people understand things
-
-- How well people remember things
-
-- How hard it is for people to learn
-
-- How tired people feel
-
-- How productive people think they are
-
- Research Configuration
+⚙️ Research Configuration
 
 | Parameter | Value |
-
 |------------|------------|
-
 | Research Method | Mixed Methods |
-
 | Data Type | Survey + Behavioral Data |
+| Playback Categories | 1×, 1.5×, 2× |
+| Evaluation Style | Quantitative + Qualitative |
 
-| Playback Categories | Normal a little faster fast |
+📊 Evaluation Metrics
 
-| Evaluation Style | Numbers + Words |
+The research evaluates:
 
- Evaluation Metrics
+- Learning Comprehension
+- Retention Duration
+- Recall Confidence
+- Cognitive Load
+- Mental Fatigue
+- Attention Span
+- Productivity Perception
 
-We will look at:
-
-- How well people understand things
-
-- How long people remember things
-
-- How confident people are when they remember things
-
-- How hard it is for people to learn
-
-- How tired people feel
-
-- How long people can focus
-
-- How productive people think they are
-
- Project Structure
+📁 Project Structure
 
 ```text
-
 Digital-Education-Speed-Learning/
-
 │
-
 ├── dataset/
-
 ├── analysis/
-
 ├── figures/
-
 ├── results/
-
 ├── Research_Paper.pdf
-
 ├── analysis.py
-
 ├── visualization.py
-
 ├── requirements.txt
-
 ├── README.md
-
 ```
 
 💡 Future Improvements
 
-In the future we might:
+Future work may include:
 
-- Get people to participate in the study
-
-- See how well people remember things over a long time
-
-- Use special machines to measure how peoples brains work
-
-- Make systems that can adjust playback speed for each person
-
-- Make learning plans that are just for each person
-
-- Look at how people learn on different platforms
+- Larger and more diverse participant datasets
+- Long-term retention studies
+- EEG / eye-tracking based cognitive measurements
+- Adaptive playback optimization systems
+- Personalized learning strategies
+- Cross-platform learning analysis
 
 🎯 Research Objective
 
-We want to see how watching videos faster affects how well people learn and how hard it is for them to learn in online education environments and we want to find the right balance between learning fast understanding things and remembering them for a long time.
+To investigate the relationship between accelerated learning strategies and cognitive performance in digital education environments and determine the balance between learning efficiency, comprehension, and long-term retention.
 
 👨‍💻 Authors
 
-Divesh Thapa
+Divesh Thapa  
+Kirti Sharma  
+Harshita Lakhanpal  
+Isha Kansal  
 
-Kirti Sharma
-
-Harshita Lakhanpal
-
-Isha Kansal
-
-Department of Computer Science
-
+Department of Computer Science  
 Chitkara University
 
-*"Learning is not about being fast. Good education is, about finding the right balance between learning fast understanding things and feeling comfortable while learning."*
+*"Learning is not only about speed — meaningful education emerges from balancing efficiency, comprehension, and cognitive comfort."*
